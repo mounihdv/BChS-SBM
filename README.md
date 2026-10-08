@@ -5,6 +5,8 @@ Monte Carlo (MC) simulations, mean-field ordinary differential equation (ODE) si
 **Biswas-Chatterjee-Sen (BChS) kinetic exchange opinion model on modular networks**  
 Hrishidev Unni, Soumyajyoti Biswas, and Anirban Chakraborti.
 
+Accepted for publication in *The European Physical Journal B* (EPJB)
+
 **Paper DOI:** 'https://doi.org/10.48550/arXiv.2512.17810'
 
 ## Files
